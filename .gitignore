@@ -1,0 +1,4 @@
+# Ignore the private folder
+private/
+# Ignore a too large data file
+data/GoogleNews-vectors-negative300.bin
